@@ -1,0 +1,26 @@
+Github
+Git 
+
+
+Home 
+about
+contact 
+help
+career
+
+Folder - Reposetory
+
+GitFolder
+    GitFolder2
+    GitFolder3
+    GitFolder4
+
+
+Untracked 
+Added 
+
+
+Git green - Untracked
+Git Blue - Added to git 
+Git Yellow - Modified in git
+Git Red - Deleted in git
