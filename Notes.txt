@@ -58,3 +58,10 @@ let b = 20;
 
 let c = a + b; // Addition
 console.log(c);
+
+
+let: 
+=> let ek block scope variable define krne ki tarika hai. agar maine let se variable ko define kiya toh maine bracket andar hi acces kr punga. bracket k bahar access krna impossible hai
+
+
+
