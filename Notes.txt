@@ -46,3 +46,15 @@ pass the m flaf (-m). m flag use to add the comments
 [testing branch ka name hai. testing k jagah kuch bhi name daal sakte ho]
 
 
+
+
+
+Addion in Javascript:
+=> maine pehele 2 valiable decleare krunga  aur inn dono add krunga a + b krke. uske baad maine result ko c mai store krunga. aur result console.log krke print krunga.
+
+// Operetor
+let a = 10;
+let b = 20;
+
+let c = a + b; // Addition
+console.log(c);
