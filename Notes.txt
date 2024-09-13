@@ -24,3 +24,25 @@ Git green - Untracked
 Git Blue - Added to git 
 Git Yellow - Modified in git
 Git Red - Deleted in git
+
+
+
+git init - for first time in a folder
+===
+git add . 
+=> add the folder in the git for track 
+
+git commit -m "enter the relavent message"
+=> commit the code into the git 
+pass the m flaf (-m). m flag use to add the comments
+
+=> git push orgin master
+[notes: master k jagah koi dusra existing branch ki name de sakte ho. master esiting and default ek branch hai]
+
+=> git branch 
+[check krne k liye ki kon konsi branch available hai abhi]
+
+=> git branch testing 
+[testing branch ka name hai. testing k jagah kuch bhi name daal sakte ho]
+
+
