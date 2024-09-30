@@ -1,0 +1,109 @@
+🔰 Data type : 
+    🟢 Premitive Datatype: 
+        String
+        Number //BigInt
+        Boolean
+        Undefined
+        Null
+        Symbol ❌
+
+    🟢 Non-premetive datatype: 
+        Function ✅
+        Date ✅
+        Map ❌
+        Array ✅
+        Object ✅
+        Set ❌
+
+
+✅ String : 
+    let a = "hello";
+
+✅ Number:
+    let num = 12;
+
+✅ Boolean:
+    let bool = true; //It can be false
+
+✅ Undifiend:
+    let und // by default agar ko variable ki value nhi di jaye toh usko undfiend mil jate hai
+
+✅ Objects:
+    const laptop = ['HP', 'Del', 'Lenovo']
+    
+✅ Date: 
+    https://www.geeksforgeeks.org/how-to-convert-milliseconds-to-date-in-javascript/
+
+    https://w3schools.com/js/js_dates.asp
+
+    const getY = date.getFullYear():
+    => getFullYear se year aate hai.
+
+    const nowTime = date.getTime():
+    => Get the now time
+
+    const properTime = x.toString():
+    => toString convert krte hai date time ko redable format mai.
+
+
+
+✅ Loop in js
+    i) for loop ✅
+    ii) while ✅
+    iii) do/while
+    iv) forEach *important
+
+
+=> For loop
+
+for(expression 1; expression 2; expression 3)
+
+for(kaha se suru krn hai; kitne baar chalana hai; increment krna hai ya dcrement)
+
+
+for(initialization; codition; ++/--)
+
+
+
+ii) while :
+=> The while loop through a block of code as long as a specifiifed condion is true.
+
+while(condion){
+    //code
+}
+
+
+✅
+* 
+*   * 
+*   *   * 
+*   *   *   * 
+*   *   *   *   * 
+
+
+
+
+*******
+*******
+*******
+*******
+
+
+*
+**
+***
+****
+******
+
+*****
+****
+***
+**
+*
+
+     *
+    **
+   ***
+  **** 
+ ***** 
+****** 
